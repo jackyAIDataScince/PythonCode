@@ -1,0 +1,17 @@
+,Websites,Popularity (unique visitors per month)[1],Front-end (Client-side),Back-end (Server-side),Database,Notes
+0,Google[2],2500000000,"JavaScript, TypeScript","C, C++, Go,[3] Java, Python, Node, PHP","Bigtable,[4] MariaDB[5]",The most used search engine in the world.
+1,Facebook,1120000000,"JavaScript, Typescript, Flow","Hack, PHP (HHVM), Python, C++, Java, Erlang, D,[6] XHP,[7] Haskell[8]","MariaDB, MySQL,[9] HBase, Cassandra[10]",The most visited social networking site.
+2,YouTube,1100000000,"JavaScript, TypeScript","C, C++, Java,[11] Go[12]","Vitess, BigTable, MariaDB[5][13]",The most popular video sharing site.
+3,Yahoo,750000000,"JavaScript, HTML",PHP,"PostgreSQL, HBase, Cassandra, MongoDB,[14]",
+4,Etsy,"516,000,000 (Total, not unique)[15]",JavaScript,PHP[16][17],"MySQL, Redis[18]",E-commerce website.
+5,Amazon,"2,400,000,000[19]",JavaScript,"Java, C++, Perl[20]","DynamoDB, RDS/Aurora, Redshift[21]",The most used e-commerce site in the world.
+6,Wikipedia,475000000,JavaScript,PHP,MariaDB[22],"A free online encyclopedia based on MediaWiki, which is programmed in PHP."
+7,Fandom,"315,000,000[23]",JavaScript,PHP,MySQL,Wiki hosting service.
+8,Twitter,290000000,JavaScript,"C++, Java,[24] Scala,[25] Ruby (Ruby On Rails)",MySQL[26],Popular social network.
+9,Bing,285000000,JavaScript,"C++, C#","Microsoft SQL Server, Cosmos DB",Search engine from Microsoft.
+10,eBay,285000000,"JavaScript, HTML","Java,[27] JavaScript,[28] Scala[29]",Oracle Database,Online auction house.
+11,MSN,280000000,JavaScript,C# (ASP.NET),Microsoft SQL Server,"An email client, for simple use. Previously known as ""messenger"", not to be confused with Facebook's messaging platform."
+12,LinkedIn,260000000,JavaScript,"Java, JavaScript,[30] Scala",Venice[31][32],World's largest professional network.
+13,Pinterest,250000000,JavaScript,"Python (Django),[33] Erlang, Elixir[34]","MySQL, Redis[35]",Search engine for ideas.
+14,WordPress.com,"240,000,000 [36]",JavaScript,PHP[37],MariaDB[38],Website manager software.
+15,Netflix,"223.090.000 (Subscribers, not visitors)",JavaScript,"Python, Java[39]","NMDB,[40] PostgreSQL",The biggest video streaming service in the world.
